@@ -64,7 +64,7 @@ ${select hairstraightner} =  xpath://*[@id="container"]/div/div[3]/div[1]/div[2]
 ${add item} =  xpath://*[@id="container"]/div/div[3]/div[1]/div[1]/div[2]/div/ul/li[1]/button
 ${back to homepage} =  xpath://*[@id="container"]/div/div[1]/div[1]/div[2]/div[1]/div/a[1]/img
 ${item in cart} =  xpath://*[@id="container"]/div/div[1]/div[1]/div[2]/div[5]/div/div/a/span
-${scroll to product} =  xpath://*[@id="container"]/div/div[2]/div/div/div[5]/a/div[2]/div[2]/div[2]/div/div/div[1]/a[5]
+
 ${scrolling over the product} =  xpath://*[@id="container"]/div/div[2]/div/div/div[5]/a/div[2]/div[2]/div[2]/div/div/div[2]/a[4]
 ${scrolling product to view} =  xpath://*[@id="container"]/div/div[2]/div/div/div[5]/a/div[2]/div[2]/div[2]/div/div/div[2]/a[4]
 ${selecting the product by click} =  xpath://*[@id="container"]/div/div[2]/div/div/div[5]/a/div[2]/div[2]/div[2]/div/div/div[2]/a[4]
