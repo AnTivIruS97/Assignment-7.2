@@ -27,8 +27,7 @@ Choose electronics category
     Scroll Element Into View  ${electronics}
     sleep  2
 select hairstraightner
-    Mouse Down  ${scroll to product}
-    sleep  1
+   
     Mouse Over  ${scrolling over the product}
     sleep  1
     Scroll Element Into View  ${scrolling product to view}
